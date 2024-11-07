@@ -183,6 +183,7 @@ h5 {
     padding-top: 120px;
     padding-bottom: 140px;
     text-align: center;
+    min-height: 100vh;
 }
 
 #home h1 {
@@ -334,6 +335,7 @@ h5 {
 
 #portfolio img {
     width: 270px;
+    height: 270px;
     object-fit: cover;
 }
 
